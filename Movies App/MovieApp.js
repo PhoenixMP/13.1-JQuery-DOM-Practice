@@ -55,10 +55,3 @@ $('tbody').on('click', '.remove', function () {
     $(this).parent().parent().remove();
 });
    
-    // let movieName = $('input').eq(0).val();
-    // let movieRating = $('input').eq(1).val();
-    // $('table').append('<td><tr></tr></td>');
-
-  
-// $('form').on('click','button', function () {
-//     $(this).val('BAMBOOZLED')
